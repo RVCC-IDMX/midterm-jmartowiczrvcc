@@ -1,2 +1,49 @@
 /* Journey to the Center of the Earth Practicum */
 /* Jacob Martowicz */
+
+body{
+
+
+}
+
+header,nav,main,aside,footer{
+
+    border:2px solid #886644; 
+    
+    padding: 2rem;
+    margin: 0.25rem auto;
+    box-shadow: inset
+     -2px 2px 25px 10px black; 
+ 
+    
+}
+
+/*Box Shadow resource: https://www.w3schools.com/CSSref/css3_pr_box-shadow.asp  */ 
+
+header{
+
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em; 
+
+}
+
+nav{
+
+}
+
+main{
+}
+
+aside{
+
+
+}
+
+footer{  
+
+    border-bottom-right-radius: 1em;
+    border-bottom-left-radius: 1em; 
+    
+
+}
+
